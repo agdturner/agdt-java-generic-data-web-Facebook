@@ -2,9 +2,9 @@
 
 https://github.com/agdturner/agdt-java-generic-data-web-Facebook/
 
-A Java tool for scraping and formatting data from Facebook's Web site.
+A Java tool for scraping and formatting data from the Facebook Web site.
 
-The Web site URL is: https://www.zoopla.co.uk/.
+The Web site URL is: https://www.facebook.com/.
 
 ## Usages
 1. Used for scraping data from the Facebook website.
